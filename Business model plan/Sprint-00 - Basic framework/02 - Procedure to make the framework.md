@@ -18,5 +18,4 @@ What exaxtly do you plan to forecast? In later sprints, we will figure out how t
 List down some things out of your countrol for now. This will help control expectations and promote rational thinking.
 
 
-[🔼 Home](/Track_1_ToDo_App/README.md) | [◀ Previous setup step](./01%20-%20Setup%20GitHub%20Account.md) | [Next setup step ▶](02a%20-%20Use%20GitHub%20CodeSpaces.md)
 
