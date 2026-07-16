@@ -1,5 +1,6 @@
 # Overview
-This project aims to create a business plan for Pranesh Deep Tech Solutions. It encapsulates topics like pricing, financial model building, forecasting, scenario analysis, etc.
+This project aims to create a business plan for Sahasraksh Deep Tech Solutions. It encapsulates topics like market research, financial model building, forecasting, etc.
 
-# Current sprint 
-The project is currently in its sprint 01 stage, where simple demand models will be used to decide the pricing of our product.
+# Progress done
+The basic financial model, business plan, and brochure havebeen completed, There have been some deviations to the original objective, and also some incomplete work. 
+More information is provided in the sprints.
