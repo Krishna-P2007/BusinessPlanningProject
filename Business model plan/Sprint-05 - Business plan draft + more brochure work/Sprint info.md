@@ -1,8 +1,15 @@
 # Objective
-Create a 3 statement financial model for the company, that predicts key info like revenue, ending cash, and expenses for the 10 years from which the company starts to sell.
+Create a business plan through which the company can start its operations. The plan should contain market data, pricing information, marketing strategy, and funding structure.
 
 # Sprint work
-Work will be started on the main part of this project - the financial statement forecasting. Through modification of the 'assumptions' sheet, the model should be customized as desired.
+Work on the business plan and determine the main elements. Also, further expand the brochure. The expansion has been determined after a meeting with the CEO.
 
 # Work achieved
-A basic model structure has been achieved. Through a meeting with the CEO, desired elements were identified (namely the 8 products, inventories, revenue structure, and 10 target regions.) and will be emphasised upon in future sprint work.
+The heading and subheading of the business plan have been fleshed out, and basic ones (such as market data and pricing structure) have been filled. 
+A more elaborate list of products and use cases have been added to the brochure. Some information has also been changed due to the renaming of the company to "Saharaksh Deep tech"
+The basic structure of the brochure is now complete, now only design and pictorial elements are remaining.
+
+# Minor setbacks
+The revenue model created in the previous sprint had to be changed at he CEO's request
+Before: Data such as selling priceand units sold were hardcoded in the sheet
+After: They are now pulling from the assumptions sheet.
